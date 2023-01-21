@@ -21,8 +21,10 @@
         rel="stylesheet">
 
     <!-- =========== FAVICON =========== -->
-    <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
-
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any"><!-- 32×32 -->
+    <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png"><!-- 180×180 -->
+    <link rel="manifest" href="assets/images/site.webmanifest">
 
     <title><?php echo $title ?></title>
 </head>

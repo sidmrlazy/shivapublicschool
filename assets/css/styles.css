@@ -33,6 +33,69 @@
   color: #f0c808;
 }
 
+/* =========== FOOTER =========== */
+.custom-footer {
+  background-color: #f0c808;
+  padding: 30px;
+  /* position: absolute; */
+  width: 100%;
+  /* bottom: 0; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.footer-navbar-brand {
+  max-width: 100%;
+  margin-bottom: 40px;
+}
+.footer-navbar-brand img {
+  width: 50%;
+  height: auto;
+}
+.footer-menu {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row !important;
+}
+.footer-nav li {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+.footer-nav a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  margin: 0;
+}
+.footer-nav a:hover {
+  color: #06aed5;
+  transition: 0.3s all ease-in-out;
+}
+.footer-details {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.footer-details-icon {
+  font-size: 20px !important;
+  margin: 0;
+}
+.footer-inner-details {
+  margin-left: 15px;
+}
+.footer-label {
+  font-size: 15px;
+  margin: 0;
+  font-weight: 600;
+}
+.footer-res {
+  margin: 0;
+  font-size: 18px;
+}
+
 @media only screen and (max-width: 768px) {
   /* ========== NAVBAR ==========  */
   .navbar-brand {
@@ -42,5 +105,36 @@
     max-width: 100% !important;
     width: 100%;
     height: auto;
+  }
+
+  /* =========== FOOTER =========== */
+  .custom-footer {
+    padding: 20px;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .footer-navbar-brand {
+    display: none;
+  }
+  .footer-menu {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column !important;
+  }
+  .footer-nav {
+    max-width: 90% !important;
+    margin-bottom: 40px;
+  }
+  .footer-details {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    max-width: 100%;
+    margin-bottom: 20px;
+    flex-direction: column;
+  }
+  .footer-inner-details {
+    margin-left: 0;
   }
 }
