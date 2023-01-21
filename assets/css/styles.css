@@ -27,6 +27,10 @@
 }
 .nav-link {
   color: #fff1d0;
+  font-size: 18px;
+}
+.nav-link:hover {
+  color: #f0c808;
 }
 
 @media only screen and (max-width: 768px) {
