@@ -1,0 +1,42 @@
+/* =========== OFFICIAL COLORS =========== */
+/* 
+#06AED5
+#086788
+#F0C808
+#FFF1D0
+#DD1C1A */
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+::selection {
+  color: #fff;
+  background: #dd1c1a;
+}
+
+/* =========== NAVBAR =========== */
+.navbar {
+  background-color: #086788 !important;
+}
+.navbar-brand {
+  max-width: 10%;
+}
+.navbar-brand img {
+  width: 100%;
+}
+.nav-link {
+  color: #fff1d0;
+}
+
+@media only screen and (max-width: 768px) {
+  /* ========== NAVBAR ==========  */
+  .navbar-brand {
+    max-width: 50% !important;
+  }
+  .navbar-brand img {
+    max-width: 100% !important;
+    width: 100%;
+    height: auto;
+  }
+}
