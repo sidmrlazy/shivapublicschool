@@ -27,10 +27,41 @@
 }
 .nav-link {
   color: #fff1d0;
-  font-size: 18px;
+  font-size: 14px;
 }
 .nav-link:hover {
   color: #f0c808;
+}
+
+/* =========== HOME SECTION 2 =========== */
+.section-2-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
+.section-2-card {
+  width: 200px;
+  height: 150px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.section-2-card:hover {
+  background-color: #06aed5;
+  border: 1px solid #e7e7e7e7;
+  border-radius: 10px;
+  transition: 0.3s all ease-in-out;
+  color: #fff;
+}
+.section-2-card img {
+  width: 90px;
+  height: 90px;
+}
+.section-2-card p {
+  font-size: 14px;
 }
 
 /* =========== FOOTER =========== */
@@ -99,7 +130,7 @@
 @media only screen and (max-width: 768px) {
   /* ========== NAVBAR ==========  */
   .navbar-brand {
-    max-width: 50% !important;
+    max-width: 20% !important;
   }
   .navbar-brand img {
     max-width: 100% !important;
