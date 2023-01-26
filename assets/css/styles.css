@@ -32,6 +32,9 @@
 .nav-link:hover {
   color: #f0c808;
 }
+.dropdown-item {
+  font-size: 14px;
+}
 
 /* =========== HOME SECTION 2 =========== */
 .section-2-grid {
@@ -63,6 +66,34 @@
 .section-2-card p {
   font-size: 14px;
 }
+
+/* =========== HOME SECTION 3 =========== */
+.section-3-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-3-img-container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-3-img-container img {
+  width: 70%;
+  border-radius: 10px;
+}
+.section-3-txt h1 {
+  margin: 0;
+  line-height: 35px;
+  margin-bottom: 10px;
+}
+.section-3-txt p {
+  margin: 0;
+}
+
+/* =========== HOME SECTION 4 =========== */
 
 /* =========== FOOTER =========== */
 .custom-footer {
@@ -125,6 +156,29 @@
 .footer-res {
   margin: 0;
   font-size: 18px;
+}
+
+/* =========== DEVELOPER FOOTER =========== */
+.developer-footer {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #dd1c1a;
+}
+.developer-footer p {
+  margin: 0;
+  color: #fff;
+}
+.developer-footer a {
+  margin: 0;
+  color: #fff;
+  text-decoration: none;
+}
+.developer-footer a:hover {
+  color: #f0c808;
+  transition: 0s all ease-in-out;
 }
 
 @media only screen and (max-width: 768px) {

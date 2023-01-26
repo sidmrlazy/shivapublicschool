@@ -1,4 +1,4 @@
-<nav class="navbar bg-dark navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php">
             <img src="assets/images/sps-logo.svg" alt="">
@@ -12,11 +12,27 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="who-we-are.php">Who we are</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Who we are
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="who-we-are.php">About School</a></li>
+                        <li><a class="dropdown-item" href="#">Principal's Message </a></li>
+                        <li><a class="dropdown-item" href="#">Our Vision & Mission </a></li>
+                        <!-- <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li> -->
+                    </ul>
                 </li>
+
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="admissions.php">Admissions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Academics</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="curriculum.php">Curriculum</a>
@@ -24,20 +40,7 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contact.php">Contact</a>
                 </li>
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        Dropdown
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
-                </li> -->
+
                 <!-- <li class="nav-item">
                     <a class="nav-link disabled">Disabled</a>
                 </li> -->
