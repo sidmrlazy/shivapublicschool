@@ -1,4 +1,4 @@
-<div class="container section-3-container">
+<div class="container section-3-container mb-3">
     <div class="col-md-6 section-3-img-container">
         <img src="assets/images/webp/school.webp" alt="">
     </div>
@@ -11,5 +11,4 @@
             veritatis
             commodi omnis!</p>
     </div>
-
 </div>

@@ -26,6 +26,9 @@
     <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png"><!-- 180×180 -->
     <link rel="manifest" href="assets/images/site.webmanifest">
 
+    <!-- =========== LOTTIE FILES =========== -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
     <title><?php echo $title ?></title>
 </head>
 

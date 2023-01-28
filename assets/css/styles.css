@@ -15,6 +15,41 @@
   background: #dd1c1a;
 }
 
+/* =========== COMMON ELEMENTS =========== */
+.common-header {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.common-header h2 {
+  margin: 0;
+  font-weight: bold;
+  color: #086788;
+}
+.common-header p {
+  margin: 0;
+}
+.under-maintenance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.under-maintenance lottie-player {
+  width: 300px;
+  height: 300px;
+}
+.under-maintenance h1 {
+  font-weight: bold;
+  color: #dd1c1a;
+  margin: 0;
+  text-align: center;
+}
+.under-maintenance p {
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+}
+
 /* =========== NAVBAR =========== */
 .navbar {
   background-color: #086788 !important;
@@ -94,6 +129,43 @@
 }
 
 /* =========== HOME SECTION 4 =========== */
+.section-4-list {
+  list-style: none;
+}
+.section-4-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  border-bottom: 1px solid #e7e7e7e7;
+  padding-bottom: 15px;
+  margin-top: 15px;
+}
+.section-4-data {
+  flex: 1;
+}
+.section-4-data-label {
+  margin: 0;
+  font-size: 14px;
+  color: #777;
+}
+.section-4-date {
+  margin: 0;
+  color: #dd1c1a;
+}
+.section-4-response {
+  margin-left: 15px !important;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+.section-4-btn {
+  margin: 0;
+  border: 0;
+  background-color: #06aed5;
+  font-size: 16px;
+  border-radius: 5px;
+  color: #fff;
+}
 
 /* =========== FOOTER =========== */
 .custom-footer {
@@ -182,6 +254,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+  /* =========== COMMON ELEMENTS =========== */
+  .common-header h2 {
+    text-align: center;
+  }
+  .common-header p {
+    text-align: center;
+  }
   /* ========== NAVBAR ==========  */
   .navbar-brand {
     max-width: 20% !important;
@@ -190,6 +269,44 @@
     max-width: 100% !important;
     width: 100%;
     height: auto;
+  }
+
+  /* =========== HOME SECTION 3 =========== */
+  .section-3-container {
+    flex-direction: column;
+    padding: 10px;
+  }
+  .section-3-img-container {
+    margin-bottom: 15px;
+  }
+  .section-3-img-container img {
+    width: 100%;
+  }
+  .section-3-txt h1 {
+    text-align: center;
+  }
+  .section-3-txt p {
+    text-align: center;
+  }
+
+  /* =========== HOME SECTION 4 =========== */
+  .section-4-container {
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .section-4-row {
+    margin-top: 25px;
+  }
+
+  /* =========== HOME SECTION 5 =========== */
+  .section-5-container {
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .section-5-row {
+    margin-top: 25px;
   }
 
   /* =========== FOOTER =========== */

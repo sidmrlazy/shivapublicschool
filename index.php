@@ -1,9 +1,23 @@
 <?php
-$title = "Shiva Public School | Best School in Tiloi";
+// $title = "Shiva Public School | Best School in Tiloi";
+// include('components/header.php') 
+?>
+
+<?php
+$title = "Under Development | Best School in Tiloi";
 include('components/header.php') ?>
-<?php include('components/navbar.php') ?>
-<?php include('components/Home/section-1.php') ?>
-<?php include('components/Home/section-2.php') ?>
-<?php include('components/Home/section-3.php') ?>
-<?php include('components/Home/section-4.php') ?>
-<?php include('components/footer.php') ?>
+<?php include('components/under-maintenance.php') ?>
+<?php // include('components/navbar.php') 
+?>
+<?php // include('components/Home/section-1.php') 
+?>
+<?php // include('components/Home/section-2.php') 
+?>
+<?php // include('components/Home/section-3.php') 
+?>
+<?php // include('components/Home/section-4.php') 
+?>
+<?php // include('components/Home/section-5.php') 
+?>
+<?php // include('components/footer.php') 
+?>
