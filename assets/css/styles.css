@@ -15,10 +15,28 @@
   background: #dd1c1a;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 /* =========== COMMON ELEMENTS =========== */
 .common-header {
-  margin-top: 50px;
+  margin-top: 100px;
   margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.common-header-data {
+  flex: 1;
+}
+.common-header-btn {
+  text-decoration: none;
+  color: #dd1c1a;
+}
+.common-header-data span {
+  color: #dd1c1a;
 }
 .common-header h2 {
   margin: 0;
@@ -167,6 +185,82 @@
   color: #fff;
 }
 
+/* =========== HOME SECTION 5 =========== */
+.section-5-container {
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(221, 28, 26);
+  background: linear-gradient(
+    132deg,
+    rgba(221, 28, 26, 1) 10%,
+    rgba(237, 95, 93, 1) 90%
+  );
+}
+.section-5-img {
+  max-width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-5-img img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+.section-5-txt h3 {
+  font-weight: bold;
+  color: #fff;
+}
+.section-5-txt p {
+  color: #fff;
+}
+
+/* =========== HOME SECTION 6 =========== */
+.section-6-link {
+  text-decoration: none;
+  padding: 5px;
+  background-color: #086788;
+  color: #fff;
+  border-radius: 5px;
+}
+
+/* =========== HOME SECTION 7 =========== */
+.section-7-container {
+  margin-top: 30px;
+}
+.section-7-form {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 40px;
+  border: 1px solid #086788;
+}
+.section-7-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-7-lottie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-7-lottie lottie-player {
+  width: 500px;
+  height: 500px;
+}
+.section-7-btn {
+  width: 100%;
+  background-color: #f0c808;
+  border: 0;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
 /* =========== FOOTER =========== */
 .custom-footer {
   background-color: #f0c808;
@@ -256,10 +350,10 @@
 @media only screen and (max-width: 768px) {
   /* =========== COMMON ELEMENTS =========== */
   .common-header h2 {
-    text-align: center;
+    text-align: left;
   }
   .common-header p {
-    text-align: center;
+    text-align: left;
   }
   /* ========== NAVBAR ==========  */
   .navbar-brand {
@@ -298,8 +392,27 @@
   .section-4-row {
     margin-top: 25px;
   }
-
   /* =========== HOME SECTION 5 =========== */
+  .section-5-container {
+    flex-direction: column;
+  }
+  .section-5-img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  .section-5-img img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .section-5-txt h3 {
+    text-align: center;
+  }
+  .section-5-txt p {
+    color: #fff;
+    text-align: center;
+  }
+
+  /* =========== HOME SECTION 6 =========== */
   .section-5-container {
     border: 1px solid #e7e7e7;
     border-radius: 10px;
@@ -307,6 +420,33 @@
   }
   .section-5-row {
     margin-top: 25px;
+  }
+
+  /* =========== HOME SECTION 7 =========== */
+  .section-7-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .section-7-form {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 40px;
+    border: 1px solid #086788;
+  }
+  .section-7-row {
+    flex-direction: column;
+  }
+  .section-7-lottie {
+    display: none;
+  }
+
+  .section-7-btn {
+    width: 100%;
+    background-color: #f0c808;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
   }
 
   /* =========== FOOTER =========== */

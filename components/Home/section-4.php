@@ -1,7 +1,10 @@
 <div class="container">
     <div class="common-header">
-        <h2>Notice Board</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <div class="common-header-data">
+            <h2><span>Notice</span> Board</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+        <a href="#" class="common-header-btn">View All Notices</a>
     </div>
 
     <div class="section-4-container">

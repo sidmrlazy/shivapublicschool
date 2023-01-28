@@ -21,6 +21,7 @@
                         <li><a class="dropdown-item" href="who-we-are.php">About School</a></li>
                         <li><a class="dropdown-item" href="#">Principal's Message </a></li>
                         <li><a class="dropdown-item" href="#">Our Vision & Mission </a></li>
+                        <li><a class="dropdown-item" href="#">Rewards & Recognitions</a></li>
                         <!-- <li>
                             <hr class="dropdown-divider">
                         </li>
@@ -36,6 +37,12 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="curriculum.php">Curriculum</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Notices</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Events</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contact.php">Contact</a>
