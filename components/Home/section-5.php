@@ -10,5 +10,6 @@
             atque molestias incidunt! Cupiditate omnis incidunt doloribus blanditiis est. At eum, accusamus nostrum
             voluptatem ea labore, neque culpa quis numquam eveniet voluptatum quam molestias quisquam maxime architecto.
             Similique quaerat sed eaque maxime.</p>
+        <a href="who-we-are.php#principals-message" class="section-5-link">Read More</a>
     </div>
 </div>

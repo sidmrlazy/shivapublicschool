@@ -18,10 +18,12 @@
                         Who we are
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="who-we-are.php">About School</a></li>
-                        <li><a class="dropdown-item" href="#">Principal's Message </a></li>
-                        <li><a class="dropdown-item" href="#">Our Vision & Mission </a></li>
-                        <li><a class="dropdown-item" href="#">Rewards & Recognitions</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#about-us">About School</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#principals-message">Principal's Message </a>
+                        </li>
+                        <li><a class="dropdown-item" href="who-we-are.php#vision-mission">Our Vision & Mission </a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#rewards-&-recognition">Rewards &
+                                Recognitions</a></li>
                         <!-- <li>
                             <hr class="dropdown-divider">
                         </li>

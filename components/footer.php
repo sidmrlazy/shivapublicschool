@@ -10,7 +10,12 @@
                 <ion-icon class="footer-details-icon" name="location-outline"></ion-icon>
                 <div class="footer-inner-details">
                     <p class="footer-label">Address</p>
-                    <p class="footer-res">CF39+2VF, Unnamed Road, Tiloi, Uttar Pradesh 229309</p>
+                    <!-- <p "></p> -->
+                    <a class="footer-res"
+                        href="https://www.google.com/maps/place/SHIVA+PUBLIC+SCHOOL/@26.446999,81.377736,12.5z/data=!4m20!1m13!4m12!1m4!2m2!1d80.8875854!2d26.7972334!4e1!1m6!1m2!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!2sshiva+public+school+tiloi!2m2!1d81.4696719!2d26.4025694!3m5!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!8m2!3d26.4025694!4d81.469672!16s%2Fg%2F11f7c9lcyp"
+                        target="_blank" rel="noopener noreferrer">CF39+2VF, Unnamed Road, Tiloi, Uttar Pradesh
+                        229309</a>
+                    <!-- <a  href="http://"></a> -->
                 </div>
             </div>
 
