@@ -478,6 +478,31 @@ li {
   font-size: 16px;
 }
 
+/* =========== NOT FOUND SECTION =========== */
+.not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+.not-found lottie-player {
+  width: 300px;
+  height: 300px;
+}
+.not-found h2 {
+  font-weight: bold;
+  margin: 0;
+}
+.not-found span {
+  font-weight: bold;
+  margin: 0;
+  color: #dd1c1a;
+}
+.not-found p {
+  text-align: center;
+}
+
 /* =========== FOOTER =========== */
 .custom-footer {
   background-color: #f0c808;

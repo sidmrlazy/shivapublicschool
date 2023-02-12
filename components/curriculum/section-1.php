@@ -2,7 +2,7 @@
     <div class="common-header">
         <div class="common-header-data">
             <h2><span>Subjects</span> Offered</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Find all class-wise subjects offered at Shiva Public School</p>
         </div>
         <!-- <a href="#" class="common-header-btn">View All Notices</a> -->
     </div>

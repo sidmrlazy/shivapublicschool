@@ -22,12 +22,6 @@
                         <li><a class="dropdown-item" href="who-we-are.php#principals-message">Principal's Message </a>
                         </li>
                         <li><a class="dropdown-item" href="who-we-are.php#vision-mission">Our Vision & Mission </a></li>
-                        <!-- <li><a class="dropdown-item" href="who-we-are.php#rewards-&-recognition">Rewards &
-                                Recognitions</a></li> -->
-                        <!-- <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li> -->
                     </ul>
                 </li>
 
@@ -38,10 +32,10 @@
                     <a class="nav-link" aria-current="page" href="curriculum.php">Curriculum</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Notices</a>
+                    <a class="nav-link" aria-current="page" href="notices.php">Notices</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Events</a>
+                    <a class="nav-link" aria-current="page" href="events.php">Events</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contact.php">Contact</a>

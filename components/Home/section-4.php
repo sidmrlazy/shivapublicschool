@@ -2,7 +2,7 @@
     <div class="common-header">
         <div class="common-header-data">
             <h2><span>Notice</span> Board</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Get a glimpse of all the notices shared by Shiva Public School</p>
         </div>
         <a href="#" class="common-header-btn">View All Notices</a>
     </div>
