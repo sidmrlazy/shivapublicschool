@@ -15,6 +15,5 @@
         and inspirational morning Assemblies, aimed at character building & equipping children with core life skills. A
         comprehensive set of co-curricular activities and hobby clubs focus on the holistic development of each child.
         other.
-
     </p>
 </div>
