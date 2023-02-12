@@ -154,6 +154,12 @@ input::-webkit-inner-spin-button {
   width: 70%;
   border-radius: 10px;
 }
+.section-3-txt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
 .section-3-txt h1 {
   margin: 0;
   line-height: 35px;
@@ -168,11 +174,14 @@ input::-webkit-inner-spin-button {
   border: 1px solid #086788;
   border-radius: 5px;
   padding: 8px;
+  width: 200px !important;
+  text-align: center;
 }
 .section-3-txt a:hover {
   background-color: #086788;
   color: #fff;
   transition: 0.3s all ease-in-out;
+  text-align: center;
 }
 
 /* =========== HOME SECTION 4 =========== */
@@ -297,6 +306,97 @@ input::-webkit-inner-spin-button {
   padding: 10px;
   border-radius: 10px;
   font-weight: 600;
+}
+
+/* =========== WHO WE ARE SECTION 2 =========== */
+.who-we-are-section-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-2-img {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-2-img img {
+  width: 80%;
+  border-radius: 5px;
+}
+.who-we-are-section-2-txt h2 {
+  font-weight: bold;
+}
+.who-we-are-section-2-txt span {
+  color: #086788;
+}
+.who-we-are-section-management-section {
+  margin-top: 100px !important;
+  margin-bottom: 100px;
+}
+.who-we-are-section-management-section h3 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+.who-we-are-section-management-section span {
+  color: #086788;
+}
+.who-we-are-section-management-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-management-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+.who-we-are-section-management-img img {
+  width: 70%;
+}
+
+/* =========== WHO WE ARE SECTION 3 =========== */
+.who-we-are-section-3 {
+  margin-top: 100px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-3-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+.who-we-are-section-3-img img {
+  width: 90%;
+}
+.who-we-are-section-3-txt h3 {
+  color: #dd1c1a;
+  font-weight: 500;
+  margin: 0;
+}
+.who-we-are-section-3-txt p {
+  line-height: 20px;
+}
+
+/* =========== WHO WE ARE SECTION 4 =========== */
+.who-we-are-section-4 {
+  margin-top: 100px;
+}
+.who-we-are-section-4 h3 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+.who-we-are-section-4 span {
+  color: #086788;
+}
+.who-we-are-section-4-list li {
+  color: #000 !important;
+  font-size: 16px;
 }
 
 /* =========== INTRO SECTION =========== */
@@ -438,6 +538,12 @@ li {
   .section-3-img-container img {
     width: 100%;
   }
+  .section-3-txt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .section-3-txt h1 {
     text-align: center;
   }
@@ -509,6 +615,60 @@ li {
     padding: 10px;
     border-radius: 10px;
     font-weight: 600;
+  }
+
+  /* =========== WHO WE ARE SECTION 2 =========== */
+  .who-we-are-section-2 {
+    flex-direction: column;
+  }
+  .who-we-are-section-2-img {
+    margin-bottom: 30px;
+  }
+  .who-we-are-section-2-img img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  .who-we-are-section-2-txt h2 {
+    font-weight: bold;
+    text-align: center;
+  }
+  .who-we-are-section-2-txt p {
+    text-align: center;
+  }
+  .who-we-are-section-management-row {
+    flex-direction: column;
+  }
+  .who-we-are-section-management-img {
+    margin-bottom: 20px;
+  }
+  .who-we-are-section-management-img img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  /* =========== WHO WE ARE SECTION 3 =========== */
+  .who-we-are-section-3 {
+    flex-direction: column;
+  }
+  .who-we-are-section-3-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  .who-we-are-section-3-img img {
+    width: 90%;
+  }
+  .who-we-are-section-3-txt h3 {
+    color: #dd1c1a;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .who-we-are-section-3-txt p {
+    line-height: 20px;
+    text-align: center;
   }
 
   /* =========== FOOTER =========== */

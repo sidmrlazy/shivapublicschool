@@ -22,8 +22,8 @@
                         <li><a class="dropdown-item" href="who-we-are.php#principals-message">Principal's Message </a>
                         </li>
                         <li><a class="dropdown-item" href="who-we-are.php#vision-mission">Our Vision & Mission </a></li>
-                        <li><a class="dropdown-item" href="who-we-are.php#rewards-&-recognition">Rewards &
-                                Recognitions</a></li>
+                        <!-- <li><a class="dropdown-item" href="who-we-are.php#rewards-&-recognition">Rewards &
+                                Recognitions</a></li> -->
                         <!-- <li>
                             <hr class="dropdown-divider">
                         </li>
