@@ -451,7 +451,7 @@ li {
   font-size: 20px;
 }
 
-/* =========== ADMISSIONS SECTION 1 =========== */
+/* =========== ADMISSIONS SECTION =========== */
 .admissions-section-1-row {
   margin-top: 50px;
   display: flex;
@@ -724,6 +724,15 @@ li {
   .who-we-are-section-3-txt p {
     line-height: 20px;
     text-align: center;
+  }
+
+  /* =========== ADMISSIONS SECTION =========== */
+  .admissions-section-1-row {
+    flex-direction: column;
+  }
+  .admissions-section-1-lottie lottie-player {
+    width: 300px;
+    height: 300px;
   }
 
   /* =========== FOOTER =========== */
