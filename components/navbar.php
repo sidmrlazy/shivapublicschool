@@ -35,9 +35,6 @@
                     <a class="nav-link" aria-current="page" href="admissions.php">Admissions</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Academics</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="curriculum.php">Curriculum</a>
                 </li>
                 <li class="nav-item">

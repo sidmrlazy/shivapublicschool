@@ -451,6 +451,27 @@ li {
   font-size: 20px;
 }
 
+/* =========== ADMISSIONS SECTION 1 =========== */
+.admissions-section-1-row {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.admissions-section-1-lottie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.admissions-section-1-lottie lottie-player {
+  width: 400px;
+  height: 400px;
+}
+.admissions-section-1-list li {
+  color: #000 !important;
+  font-size: 15px;
+}
+
 /* =========== FOOTER =========== */
 .custom-footer {
   background-color: #f0c808;
