@@ -4,12 +4,13 @@
     </div>
     <div class="col-md-6 section-5-txt">
         <h3>Principal's Message</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, officiis quae nihil quis unde suscipit
-            mollitia
-            harum sit dolore ipsum facilis provident sint nemo aut amet consequatur delectus vero cumque sunt inventore
-            atque molestias incidunt! Cupiditate omnis incidunt doloribus blanditiis est. At eum, accusamus nostrum
-            voluptatem ea labore, neque culpa quis numquam eveniet voluptatum quam molestias quisquam maxime architecto.
-            Similique quaerat sed eaque maxime.</p>
+        <p>Learning is a lifelong process and Shiva Public School, Tiloi - Amethi envisages the all-round development of
+            the
+            children and caters to the needs of the students dwelling in the picturesque surroundings of our campus.
+            Education is a joint venture and its attainment is a mutual undertaking in which Students, Teachers, parents
+            and the Principal strive together hand in hand to translate this aim into reality. I feel proud to embark on
+            a journey in which I would play a significant role in shaping the character of the future citizens of the
+            country.</p>
         <a href="who-we-are.php#principals-message" class="section-5-link">Read More</a>
     </div>
 </div>

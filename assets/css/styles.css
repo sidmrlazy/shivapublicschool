@@ -160,7 +160,19 @@ input::-webkit-inner-spin-button {
   margin-bottom: 10px;
 }
 .section-3-txt p {
-  margin: 0;
+  margin-bottom: 20px;
+}
+.section-3-txt a {
+  text-decoration: none;
+  color: #086788;
+  border: 1px solid #086788;
+  border-radius: 5px;
+  padding: 8px;
+}
+.section-3-txt a:hover {
+  background-color: #086788;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
 }
 
 /* =========== HOME SECTION 4 =========== */
@@ -192,6 +204,7 @@ input::-webkit-inner-spin-button {
   margin: 0;
   font-size: 18px;
   font-weight: 500;
+  color: #000;
 }
 .section-4-btn {
   margin: 0;

@@ -12,7 +12,7 @@
             <li class="section-4-row">
                 <div>
                     <p class="section-4-data-label">Date</p>
-                    <p class="section-4-date">28 Jan 2023</p>
+                    <p class="section-4-date">28 Jan 2023 | </p>
                 </div>
 
                 <div class="section-4-data">
@@ -27,7 +27,7 @@
             <li class="section-4-row">
                 <div>
                     <p class="section-4-data-label">Date</p>
-                    <p class="section-4-date">28 Jan 2023</p>
+                    <p class="section-4-date">28 Jan 2023 | </p>
                 </div>
 
                 <div class="section-4-data">
