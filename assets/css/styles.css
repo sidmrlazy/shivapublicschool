@@ -308,6 +308,34 @@ input::-webkit-inner-spin-button {
   font-weight: 600;
 }
 
+/* =========== HOME SECTION 8 =========== */
+.home-section-8 {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.home-section-8-card {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.home-section-8-card:hover {
+  background-color: #dd1c1a;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+.home-section-8-card p {
+  line-height: 20px;
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+}
+
 /* =========== WHO WE ARE SECTION 2 =========== */
 .who-we-are-section-2 {
   display: flex;
@@ -615,6 +643,12 @@ li {
     padding: 10px;
     border-radius: 10px;
     font-weight: 600;
+  }
+
+  /* =========== HOME SECTION 8 =========== */
+  .home-section-8-card {
+    width: 100%;
+    margin-bottom: 15px;
   }
 
   /* =========== WHO WE ARE SECTION 2 =========== */

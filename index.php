@@ -19,7 +19,10 @@ include('components/header.php')
 ?>
 <?php include('components/Home/section-2.php')
 ?>
+
 <?php include('components/Home/section-3.php')
+?>
+<?php include('components/Home/section-8.php')
 ?>
 <?php include('components/Home/section-4.php')
 ?>

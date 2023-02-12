@@ -3,7 +3,13 @@
         <img src="assets/images/webp/school.webp" alt="">
     </div>
     <div class="col-md-6 section-3-txt">
-        <h1>An Introduction</h1>
+        <div class="common-header">
+            <div class="common-header-data">
+                <h2><span>An</span> Introduction</h2>
+
+            </div>
+            <!-- <a href="#" class="common-header-btn">View All Notices</a> -->
+        </div>
         <p>Shiva Public SChool, Tiloi, Amethi is an English Medium School providing better education with great
             prospects ahead. We are keenly devoted to the ambition of spreading the ligh tof knowledge to the masses.
             Surrounded with lush greenery of the picnic spot area, it gives a perfect enviorenment for learnning new
