@@ -5,7 +5,7 @@
 
     <div class="col-md-6 who-we-are-section-2-txt">
         <h2>About <span>Us</span></h2>
-        <p>The Tiloi wing of Shiva Public School is recognised by Anglo Indian School on I.C.S.E. pattern, and directly
+        <p>The Tiloi wing of Shiva Public School is a C.B.S.E school and directly
             managed by Shiva Educational Society. Carrying forward the legacy of the Honorable Late. Shri Sant Ram Singh
             the
             Tiloi Branch boasts of an impressive building and infrastructure and well
