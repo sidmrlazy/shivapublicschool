@@ -96,12 +96,10 @@ input::-webkit-inner-spin-button {
   width: 100%;
 }
 .nav-link {
-  color: #fff1d0;
+  color: #fff;
   font-size: 14px;
 }
-.nav-link:hover {
-  color: #f0c808;
-}
+
 .dropdown-item {
   font-size: 14px;
 }
