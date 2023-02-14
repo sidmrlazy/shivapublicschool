@@ -15,7 +15,11 @@ include('components/header.php')
 ?>
 <?php include('components/navbar.php')
 ?>
+
+
 <?php include('components/Home/section-1.php')
+?>
+<?php include('components/Home/section-4.php')
 ?>
 <?php include('components/Home/section-2.php')
 ?>
@@ -24,8 +28,7 @@ include('components/header.php')
 ?>
 <?php include('components/Home/section-8.php')
 ?>
-<?php include('components/Home/section-4.php')
-?>
+
 <?php include('components/Home/section-5.php')
 ?>
 <?php include('components/Home/section-6.php')

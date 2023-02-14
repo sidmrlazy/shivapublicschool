@@ -7,8 +7,7 @@
 
     <div class="admissions-section-1-row">
         <div class="col-md-6 admissions-section-1-lottie">
-            <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_fasueuv1.json" background="transparent"
-                speed="1" loop autoplay></lottie-player>
+            <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_fasueuv1.json" background="transparent" speed="1" loop autoplay></lottie-player>
         </div>
 
         <div class="col-md-6 admissions-section-1-txt">

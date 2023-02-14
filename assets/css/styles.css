@@ -109,7 +109,8 @@ input::-webkit-inner-spin-button {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 .section-2-card {
   width: 200px;
@@ -132,7 +133,7 @@ input::-webkit-inner-spin-button {
   height: 90px;
 }
 .section-2-card p {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /* =========== HOME SECTION 3 =========== */
@@ -165,6 +166,7 @@ input::-webkit-inner-spin-button {
 }
 .section-3-txt p {
   margin-bottom: 20px;
+  font-size: 18px;
 }
 .section-3-txt a {
   text-decoration: none;
@@ -251,10 +253,12 @@ input::-webkit-inner-spin-button {
 .section-5-txt h3 {
   font-weight: bold;
   color: #fff;
+  font-size: 36px;
 }
 .section-5-txt p {
   color: #fff;
   margin-bottom: 50px !important;
+  font-size: 18px;
 }
 .section-5-link {
   text-decoration: none;
@@ -262,6 +266,7 @@ input::-webkit-inner-spin-button {
   color: #000000;
   padding: 10px;
   border-radius: 10px;
+  text-align: center;
 }
 
 /* =========== HOME SECTION 6 =========== */
@@ -356,6 +361,9 @@ input::-webkit-inner-spin-button {
 .who-we-are-section-2-txt span {
   color: #086788;
 }
+.who-we-are-section-2-txt p {
+  font-size: 18px;
+}
 .who-we-are-section-management-section {
   margin-top: 100px !important;
   margin-bottom: 100px;
@@ -406,6 +414,7 @@ input::-webkit-inner-spin-button {
 }
 .who-we-are-section-3-txt p {
   line-height: 20px;
+  font-size: 18px;
 }
 
 /* =========== WHO WE ARE SECTION 4 =========== */
@@ -420,9 +429,12 @@ input::-webkit-inner-spin-button {
 .who-we-are-section-4 span {
   color: #086788;
 }
+.who-we-are-section-4 p {
+  font-size: 18px;
+}
 .who-we-are-section-4-list li {
   color: #000 !important;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* =========== INTRO SECTION =========== */
@@ -465,15 +477,22 @@ li {
   width: 400px;
   height: 400px;
 }
+.admissions-section-1-txt p {
+  font-size: 18px;
+}
 .admissions-section-1-list li {
   color: #000 !important;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 /* =========== CURRICULUM SECTION =========== */
+.accordion-button {
+  font-size: 20px;
+  font-weight: 500;
+}
 .curriculum-section-list li {
   color: #000 !important;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* =========== NOT FOUND SECTION =========== */
@@ -650,11 +669,20 @@ li {
     width: 100%;
     border-radius: 10px;
   }
+  .section-5-txt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
   .section-5-txt h3 {
     text-align: center;
   }
   .section-5-txt p {
     color: #fff;
+    text-align: center;
+  }
+  .section-5-link {
     text-align: center;
   }
 
