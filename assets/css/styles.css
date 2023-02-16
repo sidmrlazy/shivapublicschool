@@ -97,11 +97,11 @@ input::-webkit-inner-spin-button {
 }
 .nav-link {
   color: #fff;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .dropdown-item {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 /* =========== HOME SECTION 2 =========== */
@@ -133,7 +133,7 @@ input::-webkit-inner-spin-button {
   height: 90px;
 }
 .section-2-card p {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 /* =========== HOME SECTION 3 =========== */
@@ -166,7 +166,7 @@ input::-webkit-inner-spin-button {
 }
 .section-3-txt p {
   margin-bottom: 20px;
-  font-size: 18px;
+  font-size: 16px;
 }
 .section-3-txt a {
   text-decoration: none;
@@ -258,7 +258,7 @@ input::-webkit-inner-spin-button {
 .section-5-txt p {
   color: #fff;
   margin-bottom: 50px !important;
-  font-size: 18px;
+  font-size: 16px;
 }
 .section-5-link {
   text-decoration: none;
