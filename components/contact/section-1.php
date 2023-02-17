@@ -42,6 +42,23 @@
         </div>
         <?php } else { ?>
         <div class="alert alert-success w-50" role="alert">
+            <?php
+                        $school_email = "shivapublicschoolmarketing@gmail.com";
+                        $email_subject = "Website Visitor!";
+                        $email_body = "Full Name: " . $contact_name . "<br>";
+                        $email_body .= "Contact Number: " . $contact_number . "<br>";
+                        $email_body .= "Email Address: " . $contact_email . "<br><br>";
+                        $email_body .= "Details: " . $contact_details . "<br>";
+
+                        $headers = "MIME-Version: 1.0" . "\r\n";
+                        $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+                        mail(
+                            $school_email,
+                            $email_subject,
+                            $email_body,
+                            $headers
+                        );
+                        ?>
             Form Submitted! We will contact you shortly!
         </div>
         <?php

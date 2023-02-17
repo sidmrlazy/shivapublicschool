@@ -120,6 +120,8 @@ input::-webkit-inner-spin-button {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-color: #fff;
+  border: 0;
 }
 .section-2-card:hover {
   background-color: #06aed5;
@@ -211,7 +213,7 @@ input::-webkit-inner-spin-button {
 .section-4-response {
   margin-left: 15px !important;
   margin: 0;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   color: #000;
 }
@@ -337,6 +339,23 @@ input::-webkit-inner-spin-button {
   font-size: 15px;
   text-align: center;
   margin: 0;
+}
+
+/* =========== WHO WE ARE SECTION 1 =========== */
+.intro-section-part-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.intro-section-part-2 h2 {
+  font-weight: bold;
+}
+.intro-section-part-2 span {
+  color: #086788;
+}
+.intro-section-part-2 p {
+  text-align: center;
 }
 
 /* =========== WHO WE ARE SECTION 2 =========== */
