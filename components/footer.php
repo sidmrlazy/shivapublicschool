@@ -32,7 +32,8 @@
                 <ion-icon class="footer-details-icon" name="mail-outline"></ion-icon>
                 <div class="footer-inner-details">
                     <p class="footer-label">Email</p>
-                    <a href="mailto:" class="footer-res">shivapublicschool@gmail.com</a>
+                    <a href="mailto:shivapublicschoolmarketing@gmail.com"
+                        class="footer-res">shivapublicschoolmarketing@gmail.com</a>
                 </div>
             </div>
         </div>
