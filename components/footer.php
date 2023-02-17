@@ -11,9 +11,7 @@
                 <div class="footer-inner-details">
                     <p class="footer-label">Address</p>
                     <!-- <p "></p> -->
-                    <a class="footer-res"
-                        href="https://www.google.com/maps/place/SHIVA+PUBLIC+SCHOOL/@26.446999,81.377736,12.5z/data=!4m20!1m13!4m12!1m4!2m2!1d80.8875854!2d26.7972334!4e1!1m6!1m2!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!2sshiva+public+school+tiloi!2m2!1d81.4696719!2d26.4025694!3m5!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!8m2!3d26.4025694!4d81.469672!16s%2Fg%2F11f7c9lcyp"
-                        target="_blank" rel="noopener noreferrer">CF39+2VF, Unnamed Road, Tiloi, Uttar Pradesh
+                    <a class="footer-res" href="https://www.google.com/maps/place/SHIVA+PUBLIC+SCHOOL/@26.446999,81.377736,12.5z/data=!4m20!1m13!4m12!1m4!2m2!1d80.8875854!2d26.7972334!4e1!1m6!1m2!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!2sshiva+public+school+tiloi!2m2!1d81.4696719!2d26.4025694!3m5!1s0x399bb35f6017a24d:0xc2bceb68c1889cc0!8m2!3d26.4025694!4d81.469672!16s%2Fg%2F11f7c9lcyp" target="_blank" rel="noopener noreferrer">CF39+2VF, Unnamed Road, Tiloi, Uttar Pradesh
                         229309</a>
                     <!-- <a  href="http://"></a> -->
                 </div>
@@ -32,8 +30,7 @@
                 <ion-icon class="footer-details-icon" name="mail-outline"></ion-icon>
                 <div class="footer-inner-details">
                     <p class="footer-label">Email</p>
-                    <a href="mailto:shivapublicschoolmarketing@gmail.com"
-                        class="footer-res">shivapublicschoolmarketing@gmail.com</a>
+                    <a href="mailto:shivapublicschoolmarketing@gmail.com" class="footer-res">shivapublicschoolmarketing@gmail.com</a>
                 </div>
             </div>
         </div>
@@ -71,7 +68,9 @@
                 <li>
                     <a href="#">Disclaimer</a>
                 </li>
-
+                <li>
+                    <a href="admin/index.php">Admin Login</a>
+                </li>
             </ul>
         </div>
     </div>
@@ -79,8 +78,7 @@
 
 <!-- =========== DEVELOPER FOOTER =========== -->
 <div class="developer-footer">
-    <p>&#169; All Rights Reserved | Designed & Developed by <a href="https://onlynus.com" target="_blank"
-            rel="noopener noreferrer">Onlyn</a></p>
+    <p>&#169; All Rights Reserved | Designed & Developed by <a href="https://onlynus.com" target="_blank" rel="noopener noreferrer">Onlyn</a></p>
 </div>
 
 <!-- =========== SOCIAL MEDIA LINKS =========== -->
@@ -89,8 +87,7 @@
 
 
 <!-- =========== BOOTSTRAP =========== -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>
 
 <!-- =========== IONICONS =========== -->
