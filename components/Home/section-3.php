@@ -10,7 +10,7 @@
             </div>
             <!-- <a href="#" class="common-header-btn">View All Notices</a> -->
         </div>
-        <p>Shiva Public SChool, Tiloi, Amethi is an English Medium School providing better education with great
+        <p>Shiva Public School, Tiloi, Amethi is an English Medium School providing better education with great
             prospects ahead. We are keenly devoted to the ambition of spreading the light of knowledge to the masses.
             Surrounded with lush greenery of the picnic spot area, it gives a perfect enviorenment for learning new
             skills and development of talent.</p>
