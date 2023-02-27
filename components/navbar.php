@@ -34,9 +34,9 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="curriculum.php">Curriculum</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="#">Academics</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="notices.php">Notices</a>
                 </li>

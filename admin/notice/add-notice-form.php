@@ -57,7 +57,7 @@
     </form>
 
 
-    <div class="table-responsive mt-5">
+    <div class="add-notice-table table-responsive mt-5">
         <table class="table table-bordered">
             <thead>
                 <tr>
