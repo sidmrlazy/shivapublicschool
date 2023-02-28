@@ -2,7 +2,7 @@
     <div class="common-header">
         <div class="common-header-data">
             <h2><span>Our Best</span> Features</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>What we offer to our students</p>
         </div>
         <!-- <a href="#" class="common-header-btn">View All Notices</a> -->
     </div>
