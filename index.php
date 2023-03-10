@@ -1,7 +1,3 @@
-<!-- 
-Uncomment this section when developing 
-the website and Push it to Git
- -->
 <?php
 //$title = "Under Development | Best School in Tiloi";
 //include('components/header.php')
